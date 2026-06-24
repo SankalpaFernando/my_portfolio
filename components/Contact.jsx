@@ -32,7 +32,7 @@ export default ()=> {
             <a href="https://www.linkedin.com/in/sankalpa-fernando/" className="text-gray-600 hover:text-black text-xl">
               <FaLinkedin className="text-4xl" />
             </a>
-            <a href="https://github.com/sankalpa" className="text-gray-600 hover:text-black text-xl">
+            <a href="https://github.com/SankalpaFernando" className="text-gray-600 hover:text-black text-xl">
               <FaGithub className="text-4xl" />
             </a>
             {/* <a href="#" className="text-gray-600 hover:text-black text-xl">
